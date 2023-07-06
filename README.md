@@ -2,7 +2,7 @@
 
 ## Casus: Mastermind
 
-Onderstaande casus beschrijving is een aangepaste variant van de beschrijvingen op [Nederlandse](https://nl.wikipedia.org/wiki/Mastermind) en [Engelse Wikipedia pagina](https://en.wikipedia.org/wiki/Mastermind_(board_game))over dit klassieke bordspel <sup>*</sup>. Deze beschrijving is (bewust) in het Engels, dus dit mag je doorzetten in je model en code uitwerking <sup>*</sup>
+Onderstaande casus beschrijving is een aangepaste variant van de beschrijvingen op [Nederlandse](https://nl.wikipedia.org/wiki/Mastermind) en [Engelse Wikipedia pagina](https://en.wikipedia.org/wiki/Mastermind_(board_game))over dit klassieke bordspel <sup>1</sup>. Deze beschrijving is (bewust) in het Engels, dus dit mag je doorzetten in je model en code uitwerking <sup>2</sup>.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Mastermind.jpg" align="right" width="200">
 
@@ -31,13 +31,13 @@ If the codebreaker guesses the pattern, in both order and color, within twelve t
 
 <hr>
 
-### Opmerkingen
+### Voetnoten
 
-<sup>*</sup> Merk op dat we voor deze intro opdracht kozen voor een Engelse beschrijving. Op zich logisch gezien het spel 'Master mind' heet en een internationaal spel is. Je moet bij deze opdracht dan ook Engels gebruiken voor je *Ubiquitous Language* in analyse modellen en in je code uitwerking (klasse- en methodenamen etc.). Let wel op dat je per weekopdracht BEWUST een keuze maakt, en niet blind in het Engels begint omdat je programmeertaal 'toevallig' Engelse keywords gebruikt. Binnen Domain Driven Design (DDD) is namelijk vrij gebruikelijk om aan te sluiten bij de taal van de opdrachtgever en/of het domein "to avoid inconsistencies and miscommunication due to translation problems or misunderstandings" (Birkemeijer 2017). Naast a) 'taal in je code' heb je overigens ook nog keuze in b) de taal van je user interface, c) de taal van je documentatie en mogelijk nog andere zaken zoals d) de taal die je gebruikt bij namen van je databasetabellen en kolomnamen etc. Deze course focust op domein en logica hieronder en minder op meer technische als presentatie of dataopslag, maar voor al deze zaken kun je verschillende keuzes maken. Het gaat om de reden. Omdat als je eenmaal begonnen het vaak veel werk is, kun je het best in het Nederlands beginnen, om van de 'default Engels' af te komen.
+<sup>1</sup> Merk op dat we voor deze intro opdracht kozen voor een Engelse beschrijving. Op zich logisch gezien het spel 'Master mind' heet en een internationaal spel is. Je moet bij deze opdracht dan ook Engels gebruiken voor je *Ubiquitous Language* in analyse modellen en in je code uitwerking (klasse- en methodenamen etc.). Let wel op dat je per weekopdracht BEWUST een keuze maakt, en niet blind in het Engels begint omdat je programmeertaal 'toevallig' Engelse keywords gebruikt. Binnen Domain Driven Design (DDD) is namelijk vrij gebruikelijk om aan te sluiten bij de taal van de opdrachtgever en/of het domein "to avoid inconsistencies and miscommunication due to translation problems or misunderstandings" (Birkemeijer 2017). Naast a) 'taal in je code' heb je overigens ook nog keuze in b) de taal van je user interface, c) de taal van je documentatie en mogelijk nog andere zaken zoals d) de taal die je gebruikt bij namen van je databasetabellen en kolomnamen etc. Deze course focust op domein en logica hieronder en minder op meer technische als presentatie of dataopslag, maar voor al deze zaken kun je verschillende keuzes maken. Het gaat om de reden. Omdat als je eenmaal begonnen het vaak veel werk is, kun je het best in het Nederlands beginnen, om van de 'default Engels' af te komen.
 
-<sup>**</sup> In het kader van 'eat your own dogfood' hieronder ook een nette 'Bronnen' sectie conform de APA richtlijnen, zoals de AIM controlekaart vereist. In dit materiaal gebruiken we verder ook hyperlinks, zeker omdat deze opdracht beschrijvin bedoeld is om online te lezen. Wees in eigen documenten In eigen documenten spaarzaam om (enkel) hyperlinks te gebruiken. Om documenten op zichzelf te laten staan is gebruiken van APA richtlijnen voor belangrijke bronnen ook goed. Spaar wel gebruikte URL's op, zowel van informatie/achtergrond als van code, maar refactor dit naar APA. De onder Bronnen gegeven URL's zijn ook geversioneerd conform onderstaande quote (Caulfield, 2022):
+<sup>2</sup> In het kader van 'eat your own dogfood' hieronder ook een nette 'Bronnen' sectie conform de APA richtlijnen, zoals de AIM controlekaart vereist. In dit materiaal gebruiken we verder ook hyperlinks, zeker omdat deze opdracht beschrijvin bedoeld is om online te lezen. Wees in eigen documenten In eigen documenten spaarzaam om (enkel) hyperlinks te gebruiken. Om documenten op zichzelf te laten staan is gebruiken van APA richtlijnen voor belangrijke bronnen ook goed. Spaar wel gebruikte URL's op, zowel van informatie/achtergrond als van code, maar refactor dit naar APA. De onder Bronnen gegeven URL's zijn ook geversioneerd conform onderstaande quote (Caulfield, 2022):
 
->APA recommends linking to a specific archived version of the Wikipedia article so that the reader can be sure they are accessing the same version.
+>"APA recommends linking to a specific archived version of the Wikipedia article so that the reader can be sure they are accessing the same version."
 
 ## Bronnen
 
